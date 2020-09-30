@@ -1,0 +1,11 @@
+/bin/
+
+.classpath
+.settings
+.project
+/WebContent/META-INF/MANIFEST.MF
+/build/
+
+/target/
+
+/bin/
