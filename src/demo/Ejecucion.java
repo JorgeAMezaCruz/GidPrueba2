@@ -12,6 +12,7 @@ public class Ejecucion {
 		System.out.println(y);
 		System.out.println(z);
 		System.out.println(m);
-		System.out.println(q);
+		System.out.println(q+m);
+		
 	}
 }
